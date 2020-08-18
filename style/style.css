@@ -1,0 +1,63 @@
+#fund {
+  background: #a2b66b;
+  height: 730px;
+}
+
+.plot {
+  border-bottom: 3px solid #8a6b68;
+  height: 146px;
+  align-items: center;
+  display: flex;
+}
+
+
+#plot5 {
+  border: 0px solid !important;
+}
+
+.horse {
+  color: white;
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 110px;
+  position: absolute;
+  left: 0px;
+  transition: all 0.4s;
+}
+
+.play {
+  width: 150px;
+  margin-top: 10px;
+  background: #088da5;
+  border-radius: 30px;
+  color: #c5dbd6;
+  border-color: #46637b;
+  position: absolute;
+  right: 1%;
+}
+
+/* 
+.horse1 {
+  background: red;
+}
+
+.horse2 {
+  background: yellowgreen;
+}
+
+.horse3 {
+  background:blue;
+  
+}
+
+.horse4 {
+  background:violet;
+}
+
+.horse5 {
+  background: brown;
+} */
